@@ -5,3 +5,9 @@
 #Set working directory
 
 #Upload the dataset 
+
+#Check the first lines of the dataset 
+
+#Analyze several of the occupations to determine which one to choose
+
+#
